@@ -50,31 +50,47 @@ Access from Outside -- Stormwind:
 ------------------------------------------------------------------------
 
 Central Core Design -- Stormwind:
-  Inkeeper Allison to Mailbox (33.2, 64.7): sec
-  Auctioneer Fitch to Mailbox (33.2, 64.7): sec
-  Auctioneer Fitch to Newton Burnside (Banker): sec
-  Newton Burnside (Banker) to Mailbox (33.2, 64.7): sec
+  AH - Bank
+  AH - Inn
+  AH - FM
+  AH - Mail
+  Bank - Inn
+  Bank - FM
+  Bank - Mail
+  Inn - FM
   TOTAL: sec
-  
+
 Central Core Design -- Ironforge:
-  Inkeeper Firebrew to Mailbox (61.6, 76.1): sec
-  Auctioneer Redmuse to Mailbox (61.6, 76.1): sec
-  Auctioneer Redmuse to Bailey Stonemantle (Banker): sec
-  Bailey Stonemantle (Banker) to Mailbox (61.6, 76.1): sec
+  AH - Bank
+  AH - Inn
+  AH - FM
+  AH - Mail
+  Bank - Inn
+  Bank - FM
+  Bank - Mail
+  Inn - FM
   TOTAL: sec
 
 Central Core Design -- Darnassus:
-  Inkeeper Saelinne to Mailbox (41.6, 41.9): sec
-  Auctioneer Cazarez to Mailbox (41.6, 41.9): sec
-  Auctioneer Cazarez to Garryeth (Banker): sec
-  Garryeth (Banker) to Mailbox (61.6, 76.1): sec
+  AH - Bank
+  AH - Inn
+  AH - FM
+  AH - Mail
+  Bank - Inn
+  Bank - FM
+  Bank - Mail
+  Inn - FM
   TOTAL: sec
 
 Central Core Design -- The Exodar:
-  Caregiver Breel to Mailbox (51.1, 43.1): sec
-  Eoch (Auctioneer) to Mailbox (51.1, 43.1): sec
-  Eoch (Auctioneer) to Jaela (Banker): sec
-  Jaela (Banker) to Mailbox (51.1, 43.1): sec
+  AH - Bank
+  AH - Inn
+  AH - FM
+  AH - Mail
+  Bank - Inn
+  Bank - FM
+  Bank - Mail
+  Inn - FM
   TOTAL: sec
 
 ========================================================================
@@ -123,6 +139,17 @@ Central Core Design -- Undercity:
   Auctioneer Yarly to Mailbox (68.2, 38.3): sec
   Auctioneer Yarly to Mortimer Montague (Banker): sec
   Mortimer Montague (Banker) to Mailbox (68.2, 38.3): sec
+  TOTAL: sec
+
+Central Core Design -- Silvermoon:
+  AH - Bank
+  AH - Inn
+  AH - FM
+  AH - Mail
+  Bank - Inn
+  Bank - FM
+  Bank - Mail
+  Inn - FM
   TOTAL: sec
 
 ========================================================================
