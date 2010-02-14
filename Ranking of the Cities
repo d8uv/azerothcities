@@ -19,11 +19,12 @@ Silvermoon    |       |       |       |       |       |
 ========================================================================
 
 Access from Outside -- Stormwind:
-  (Below are from Caylais Moonfeather in Auberdine)
-  (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
+    (Below are from Caylais Moonfeather in Auberdine)
+    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
   Rut'theran Village: 86 + 401 = 487
+  Auberdine: 401
   Moonglade: 152 + 401 = 553
-  Talinbranch Glade: 191 + 401 = 592
+  Talonbranch Glade: 191 + 401 = 592
   Everlook: 272 + 401 = 673
   Emerald Sanctuary: 249 + 401 = 650
   Stonetalon Peak: 182 + 401 = 583
@@ -33,43 +34,49 @@ Access from Outside -- Stormwind:
   Nijel's Point: 294 + 401 = 695
   Ratchet: 363 + 401 = 764
   Feathermoon: 475 + 401 = 876
-  Thalanaar: 609 + 401 = 1010
-  Mudsprocket: 510 + 401 = 911
-  Theramore: 445 + 401 = 846
   Cenarion Hold: 629 + 401 = 1030
-  Marshal's Refuge: 706 + 401 = 1107
-  Gadgetzan: 603 + 401 = 1004
+    (Below are from Baldruc in Theramore)
+    (Stormwind to Ironforge penalty = 68 to tram, 130 on tram, 48 to FM)
+    (Ironforge to Theramore penalty = 
+      155 to Menethil, 15 to boat, 270 on boat, 20 to FM = 460)
+  Thalanaar: 164 + 246 + 460 = 870
+  Mudsprocket: 65 + 246 + 460 = 771
+  Theramore: 0 + 246 + 460 = 706
+  Marshal's Refuge: 263 + 246 + 460 = 969
+  Gadgetzan: 158 + 246 + 460 = 864
 
 Access from Outside -- Ironforge:
-  (Below are from Caylais Moonfeather in Auberdine)
-  (Ironforge to Auberdine penalty = 
-    47 to tram, 130 on tram, 106 to boat, 275 on boat, 30 to FM = 558)
+    (Below are from Caylais Moonfeather in Auberdine)
+    (Ironforge to Auberdine penalty = 
+      47 to tram, 130 on tram, 106 to boat, 275 on boat, 30 to FM = 558)
   Rut'theran Village: 86 + 558 = 644
+  Auberdine: 558
   Moonglade: 152 + 558 = 710
-  Talinbranch Glade: 191 + 558 = 749
+  Talonbranch Glade: 191 + 558 = 749
   Everlook: 272 + 558 = 830
   Emerald Sanctuary: 249 + 558 = 807
   Stonetalon Peak: 182 + 558 = 740
   Astranaar: 169 + 558 = 727
-  Forest Song: 304 + 558 = 862
-  Talrendis Point: 301 + 558 = 859 
-  Nijel's Point: 294 + 558 = 852
-  Ratchet: 363 + 558 = 921
-  Feathermoon: 475 + 558 = 1033
-  Thalanaar: 609 + 558 = 1167
-  Mudsprocket: 510 + 558 = 510 + 1068
-  Theramore: 445 + 558 = 1063
-  Cenarion Hold: 629 + 558 = 1187
-  Marshal's Refuge: 706 + 558 = 1264
-  Gadgetzan: 603 + 558 = 1161
-  
-  @@Note: Try out the Menethil > Theramore boat too
+    (Below are from Baldruc in Theramore)
+    (Ironforge to Theramore penalty = 
+      155 to Menethil, 15 to boat, 270 on boat, 20 to FM = 460)
+  Forest Song: 263 + 460 = 723
+  Talrendis Point: 235 + 460 = 695
+  Nijel's Point: 335 + 460 = 795
+  Ratchet: 116 + 460 = 576
+  Feathermoon: 343 + 460 = 803
+  Thalanaar: 164 + 460 = 624
+  Mudsprocket: 65 + 460 = 525
+  Theramore: 0 + 460 = 460
+  Cenarion Hold: 357 + 460 = 817
+  Marshal's Refuge: 263 + 460 = 723
+  Gadgetzan: 158 + 460 = 618
 
 Access from Outside -- Darnassus:
-  (Below are from Vesprystus in Rut'theran Village)
+    (Below are from Vesprystus in Rut'theran Village)
   Moonglade: 238
   Auberdine: 86
-  Talinbranch Glade: 277
+  Talonbranch Glade: 277
   Everlook: 356
   Emerald Sanctuary: 333
   Stonetalon Peak: 268
@@ -87,11 +94,11 @@ Access from Outside -- Darnassus:
   Gadgetzan: 687
 
 Access from Outside -- The Exodar:
-  (Below are from Caylais Moonfeather in Auberdine)
-  (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
+    (Below are from Caylais Moonfeather in Auberdine)
+    (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
   Rut'theran Village: 86 + 326 = 412
   Moonglade: 152 + 326 = 478
-  Talinbranch Glade: 191 + 326 = 512
+  Talonbranch Glade: 191 + 326 = 512
   Everlook: 272 + 326 = 598
   Emerald Sanctuary: 249 + 326 = 575
   Stonetalon Peak: 182 + 326 = 508
