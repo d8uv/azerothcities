@@ -25,15 +25,17 @@ Access from Outside -- Ironforge:
   TOTAL: 260 sec
 
 Access from Outside -- Darnassus:
-  Inkeeper Allison to Nayura (Dockmaster): sec
-  The Ride: sec
-  Boat to Portal: sec
-  Portal to Inkeeper Saelienne: sec
-  TOTAL: sec
+  Inkeeper Allison to Nayura (Dockmaster): 81 sec
+  The Ride: 275 sec
+  Stormwind Dock to Caylais Moonfeather (Hippogryph Master): 28 sec
+  The Flight: 86 sec
+  Vesprystus (Hippogryph Master) to Portal: 15 sec
+  Portal to Innkeeper Saelienne: 36 sec
+  TOTAL: 521 sec
 
 Access from Outside -- The Exodar:
-  Inkeeper Allison to Nayura (Dockmaster): sec
-  The Ride: sec
+  Inkeeper Allison to Nayura (Dockmaster): 81 sec
+  The Ride: 275 sec
   Boat to Boat: sec
   The Ride: sec
   Boat to Caregiver Breel: sec
@@ -67,15 +69,15 @@ Central Core Design -- Ironforge:
   TOTAL: 128 sec
 
 Central Core Design -- Darnassus:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
+  Auctioneer Tolon to Garryeth (Banker): 17 sec
+  Auctioneer Tolon to Innkeeper Saedlienne: 31 sec
+  Auctioneer Tolon to Vesprystus (Hippogryph Master): 54 sec
+  Auctioneer Tolon to Mail(60,55): 5 sec
+  Garryeth (Banker) to Innkeeper Saelienne: 27 sec
+  Garryeth (Banker) to Vesprystus (Hippogryph Master): 24 sec
+  Garryeth (Banker) to Mail(42,42): 1 sec
+  Innkeeper Saelienne to Vesprystus (Hippogryph Master): 53 sec
+  TOTAL: 212 sec
 
 Central Core Design -- The Exodar:
   AH to Bank
