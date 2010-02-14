@@ -1,7 +1,7 @@
 Categories:
   Character - 5 points. How cool the place is. Looks/Music/General Feel
   Access from Outside - 5 points. How much of a bitch it is to get there
-  Central Core Design - 5 points. How close Innkeeper Allison/AH/Bank/Mailboxes are.
+  Central Core Design - 5 points. How close Inn/AH/Bank/Mailboxes are.
   General Memorability - 5 points. Layout of the rest of the city.
 
                 Char    Acces   Core    Memor   TOTAL
@@ -19,7 +19,7 @@ Silvermoon    |       |       |       |       |       |
 ========================================================================
 
 Access from Outside -- Ironforge:
-  Inkeeper Allison to Deeprun Tram: 60 sec
+  Innkeeper Allison to Deeprun Tram: 60 sec
   The Ride: 130sec
   Deeprun Tram to Inkeeper Firebrew: 70sec
   TOTAL: 260 sec
@@ -36,13 +36,13 @@ Access from Outside -- Darnassus:
 Access from Outside -- The Exodar:
   Inkeeper Allison to Nayura (Dockmaster): 81 sec
   The Ride: 275 sec
-  Boat to Boat: sec
-  The Ride: sec
-  Boat to Caregiver Breel: sec
-  TOTAL: sec
+  Stormwind Dock to Exodar Dock: 14 sec
+  The Ride: 290 sec
+  Auberdine Dock to Caregiver Breel: 75 sec
+  TOTAL: 735 sec
 
 Access from Outside -- Stormwind:
-  Average the other Alliance cities: sec
+  Average the other Alliance cities: 505 sec
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Central Core Design -- Stormwind:
   Auctioneer Fitch to Dungar Longdrink (Gryphon Master): 25 sec
   Auctioneer Fitch to Mail(61,70): 4 sec
   Newton Burnside (Banker) to Innkeeper Allison: 15 sec
-  Newton Burnside (Banker) to Dungar Longdrink (Gryphon Master): 32 sec
+  Newton Buranside (Banker) to Dungar Longdrink (Gryphon Master): 32 sec
   Newton Burnside (Banker) to Mail(63,75): 11 sec
   Dungar Longdrink (Gryphon Master) to Innkeeper Allison: 23 sec
   TOTAL: 143 sec
@@ -80,22 +80,22 @@ Central Core Design -- Darnassus:
   TOTAL: 212 sec
 
 Central Core Design -- The Exodar:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
+  Iressa (Auctioneer) to Caregiver Breel: 31 sec
+  Iressa (Auctioneer) to Auberdine Dock: 70 sec
+  Iressa (Auctioneer) to Mail(60,51): 8 sec
+  Jaela (Banker) to Caregiver Breel: 22 sec
+  Jaela (Banker) to Auberdine Dock: 60 sec
+  Jaela (Banker) to Mail(51,43): 8 sec
+  Caregiver Breel to Auberdine Dock: 75 sec
+  (Note, unlike the other cities, the FM is pretty much useless)
+  TOTAL: 274 sec
 
 ========================================================================
 Access from Outside -- Thunder Bluff:
   Inkeeper Grysha to Doras (Flight Master): sec
   The Flight: sec
   Tal (Flight Master) to Inkeeper Pala: sec
-  TOTAL: sec
+  TOTAL: 
 
 Access from Outside -- Undercity:
   Inkeeper Grysha to Frezza (Zeppelin Master): sec
