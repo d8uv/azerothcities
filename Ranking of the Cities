@@ -18,31 +18,95 @@ Silvermoon    |       |       |       |       |       |
 
 ========================================================================
 
+Access from Outside -- Stormwind:
+  (Below are from Caylais Moonfeather in Auberdine)
+  (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
+  Rut'theran Village: 86 + 401 = 487
+  Moonglade: 152 + 401 = 553
+  Talinbranch Glade: 191 + 401 = 592
+  Everlook: 272 + 401 = 673
+  Emerald Sanctuary: 249 + 401 = 650
+  Stonetalon Peak: 182 + 401 = 583
+  Astranaar: 169 + 401 = 570
+  Forest Song: 304 + 401 = 705
+  Talrendis Point: 301 + 401 = 702 
+  Nijel's Point: 294 + 401 = 695
+  Ratchet: 363 + 401 = 764
+  Feathermoon: 475 + 401 = 876
+  Thalanaar: 609 + 401 = 1010
+  Mudsprocket: 510 + 401 = 911
+  Theramore: 445 + 401 = 846
+  Cenarion Hold: 629 + 401 = 1030
+  Marshal's Refuge: 706 + 401 = 1107
+  Gadgetzan: 603 + 401 = 1004
+
 Access from Outside -- Ironforge:
-  Innkeeper Allison to Deeprun Tram: 60 sec
-  The Ride: 130sec
-  Deeprun Tram to Inkeeper Firebrew: 70sec
-  TOTAL: 260 sec
+  (Below are from Caylais Moonfeather in Auberdine)
+  (Ironforge to Auberdine penalty = 
+    47 to tram, 130 on tram, 106 to boat, 275 on boat, 30 to FM = 558)
+  Rut'theran Village: 86 + 558 = 644
+  Moonglade: 152 + 558 = 710
+  Talinbranch Glade: 191 + 558 = 749
+  Everlook: 272 + 558 = 830
+  Emerald Sanctuary: 249 + 558 = 807
+  Stonetalon Peak: 182 + 558 = 740
+  Astranaar: 169 + 558 = 727
+  Forest Song: 304 + 558 = 862
+  Talrendis Point: 301 + 558 = 859 
+  Nijel's Point: 294 + 558 = 852
+  Ratchet: 363 + 558 = 921
+  Feathermoon: 475 + 558 = 1033
+  Thalanaar: 609 + 558 = 1167
+  Mudsprocket: 510 + 558 = 510 + 1068
+  Theramore: 445 + 558 = 1063
+  Cenarion Hold: 629 + 558 = 1187
+  Marshal's Refuge: 706 + 558 = 1264
+  Gadgetzan: 603 + 558 = 1161
+  
+  @@Note: Try out the Menethil > Theramore boat too
 
 Access from Outside -- Darnassus:
-  Inkeeper Allison to Nayura (Dockmaster): 81 sec
-  The Ride: 275 sec
-  Stormwind Dock to Caylais Moonfeather (Hippogryph Master): 28 sec
-  The Flight: 86 sec
-  Vesprystus (Hippogryph Master) to Portal: 15 sec
-  Portal to Innkeeper Saelienne: 36 sec
-  TOTAL: 521 sec
+  (Below are from Vesprystus in Rut'theran Village)
+  Moonglade: 238
+  Auberdine: 86
+  Talinbranch Glade: 277
+  Everlook: 356
+  Emerald Sanctuary: 333
+  Stonetalon Peak: 268
+  Astranaar: 255
+  Forest Song: 388
+  Talrendis Point: 387
+  Nijel's Point: 380
+  Ratchet: 447
+  Feathermoon: 561
+  Thalanaar: 693
+  Mudsprocket: 594
+  Theramore: 531
+  Cenarion Hold: 713
+  Marshal's Refuge: 791
+  Gadgetzan: 687
 
 Access from Outside -- The Exodar:
-  Inkeeper Allison to Nayura (Dockmaster): 81 sec
-  The Ride: 275 sec
-  Stormwind Dock to Exodar Dock: 14 sec
-  The Ride: 290 sec
-  Auberdine Dock to Caregiver Breel: 75 sec
-  TOTAL: 735 sec
-
-Access from Outside -- Stormwind:
-  Average the other Alliance cities: 505 sec
+  (Below are from Caylais Moonfeather in Auberdine)
+  (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
+  Rut'theran Village: 86 + 326 = 412
+  Moonglade: 152 + 326 = 478
+  Talinbranch Glade: 191 + 326 = 512
+  Everlook: 272 + 326 = 598
+  Emerald Sanctuary: 249 + 326 = 575
+  Stonetalon Peak: 182 + 326 = 508
+  Astranaar: 169 + 326 = 495
+  Forest Song: 304 + 326 = 630
+  Talrendis Point: 301 + 326 = 627 
+  Nijel's Point: 294 + 326 = 620
+  Ratchet: 363 + 326 = 689
+  Feathermoon: 475 + 326 = 801
+  Thalanaar: 609 + 326 = 935
+  Mudsprocket: 510 + 326 = 836
+  Theramore: 445 + 326 = 771
+  Cenarion Hold: 629 + 326 = 995
+  Marshal's Refuge: 706 + 326 = 1032
+  Gadgetzan: 603 + 326 = 929
 
 ------------------------------------------------------------------------
 
@@ -52,7 +116,7 @@ Central Core Design -- Stormwind:
   Auctioneer Fitch to Dungar Longdrink (Gryphon Master): 25 sec
   Auctioneer Fitch to Mail(61,70): 4 sec
   Newton Burnside (Banker) to Innkeeper Allison: 15 sec
-  Newton Buranside (Banker) to Dungar Longdrink (Gryphon Master): 32 sec
+  Newton Burnside (Banker) to Dungar Longdrink (Gryphon Master): 32 sec
   Newton Burnside (Banker) to Mail(63,75): 11 sec
   Dungar Longdrink (Gryphon Master) to Innkeeper Allison: 23 sec
   TOTAL: 143 sec
@@ -165,6 +229,6 @@ Central Core Design -- Silvermoon:
 
 Misc Notes:
   For zeppelins/boats/trams, time so that you always Just Miss It.
+  Access from Outside starts at FM
   Take shortcuts if reliable.
   Worst = 1, Best = 5.
-  Mailboxes are always the -nearest- mailbox to the place
