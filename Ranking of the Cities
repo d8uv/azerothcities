@@ -44,6 +44,24 @@ Access from Outside -- Stormwind:
   Theramore: 0 + 246 + 460 = 706
   Marshal's Refuge: 263 + 246 + 460 = 969
   Gadgetzan: 158 + 246 + 460 = 864
+    (Below are from Dungar Longdrink in Stormwind)
+  Light's Hope Chapel = 567
+  Chillwind Camp = 475
+  Aerie Peak = 458
+  Southshore = 433
+  Refuge Point = 385
+  Menethil Harbor = 332
+  Ironforge = 217
+  Thelsamar = 223
+  Thorium Point = 134
+  Morgan's Vigil = 154
+  Lakeshire = 114
+  Darkshire = 117
+  Sentinel Hill = 79
+  Rebel Camp = 93
+  Nethergarde Keep = 177
+  Booty Bay = 200
+AVERAGE = 503
 
 Access from Outside -- Ironforge:
     (Below are from Caylais Moonfeather in Auberdine)
@@ -71,6 +89,24 @@ Access from Outside -- Ironforge:
   Cenarion Hold: 357 + 460 = 817
   Marshal's Refuge: 263 + 460 = 723
   Gadgetzan: 158 + 460 = 618
+    (Below are from Gryth Thurden in Ironforge)
+  Light's Hope Chapel = 350
+  Chillwind Camp = 258
+  Aerie Peak = 241
+  Southshore = 216
+  Refuge Point = 204
+  Menethil Harbor = 115
+  Thelsamar = 102
+  Thorium Point = 85
+  Stormwind = 201
+  Morgan's Vigil = 176
+  Lakeshire = 238
+  Darkshire = 299
+  Rebel Camp = 303
+  Sentinel Hill = 289
+  Nethergarde Keep = 372
+  Booty Bay = 410
+AVERAGE = 483
 
 Access from Outside -- Darnassus:
     (Below are from Vesprystus in Rut'theran Village)
@@ -92,10 +128,30 @@ Access from Outside -- Darnassus:
   Cenarion Hold: 713
   Marshal's Refuge: 791
   Gadgetzan: 687
+    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
+    (Below are from Dungar Longdrink in Stormwind)
+  Light's Hope Chapel 567 + 401 = 968
+  Chillwind Camp 475 + 401 = 876
+  Aerie Peak 458 + 401 = 859
+  Southshore 433 + 401 = 834
+  Refuge Point 385 + 401 = 786
+  Menethil Harbor 332 + 401 = 733
+  Ironforge 217 + 401 = 618
+  Thelsamar 223 + 401 = 624
+  Thorium Point 134 + 401 = 535
+  Stormwind 0 + 401 = 401
+  Morgan's Vigil 154 + 401 = 555
+  Lakeshire 114 + 401 = 515
+  Darkshire 117 + 401 = 518
+  Sentinel Hill 79 + 401 = 480
+  Rebel Camp 93 + 401 = 494
+  Nethergarde Keep 177 + 401 = 578
+  Booty Bay 200 + 401 = 601
+AVERAGE = 542
 
 Access from Outside -- The Exodar:
-    (Below are from Caylais Moonfeather in Auberdine)
     (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
+    (Below are from Caylais Moonfeather in Auberdine)
   Rut'theran Village: 86 + 326 = 412
   Moonglade: 152 + 326 = 478
   Talonbranch Glade: 191 + 326 = 512
@@ -114,6 +170,27 @@ Access from Outside -- The Exodar:
   Cenarion Hold: 629 + 326 = 995
   Marshal's Refuge: 706 + 326 = 1032
   Gadgetzan: 603 + 326 = 929
+    (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
+    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
+    (Below are from Dungar Longdrink in Stormwind)
+  Light's Hope Chapel 567 + 401 + 326 = 1294
+  Chillwind Camp 475 + 401 + 326 = 1202
+  Aerie Peak 458 + 401 + 326 = 1185
+  Southshore 433 + 401 + 326 = 1160
+  Refuge Point 385 + 401 + 326 = 1112
+  Menethil Harbor 332 + 401 + 326 = 1059
+  Ironforge 217 + 401 + 326 = 944
+  Thelsamar 223 + 401 + 326 = 950
+  Thorium Point 134 + 401 + 326 = 861
+  Stormwind 0 + 401 + 326 = 727
+  Morgan's Vigil 154 + 401 + 326 = 881
+  Lakeshire 114 + 401 + 326 = 841
+  Darkshire 117 + 401 + 326 = 844
+  Sentinel Hill 79 + 401 + 326 = 806
+  Rebel Camp 93 + 401 + 326 = 820
+  Nethergarde Keep 177 + 401 + 326 = 904
+  Booty Bay 200 + 401 + 326 = 927
+AVERAGE = 827
 
 ------------------------------------------------------------------------
 
