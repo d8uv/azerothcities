@@ -1,0 +1,134 @@
+Categories:
+  Character - 5 points. How cool the place is. Looks/Music/General Feel
+  Access from Outside - 5 points. How much of a bitch it is to get there
+  Central Core Design - 5 points. How close Inn/AH/Bank/Mailboxes are.
+  General Memorability - 5 points. Layout of the rest of the city.
+
+                Char    Acces   Core    Memor   TOTAL
+-------------------------------------------------------
+Stormwind     |       |       |       |       |       |
+Ironforge     |       |       |       |       |       |
+Darnassus     |       |       |       |       |       |
+The Exodar    |       |       |       |       |       |
+Orgimmar      |       |       |       |       |       |
+Thunder Bluff |       |       |       |       |       |
+Undercity     |       |       |       |       |       |
+Silvermoon    |       |       |       |       |       |
+-------------------------------------------------------
+
+========================================================================
+
+Access from Outside -- Ironforge:
+  Inkeeper Allison to Dungar Longdrink (Flight Master): sec
+  The Flight: sec
+  Gryth Thurden (Flight Master) to Inkeeper Firebrew: sec
+  SUBTOTAL: sec
+  Inkeeper Allison to Deeprun Tram: sec
+  The Ride: sec
+  Deeprun Tram to Inkeeper Firebrew: sec
+  SUBTOTAL: sec
+  TOTAL = Average of subtotals = sec
+
+Access from Outside -- Darnassus:
+  Inkeeper Allison to Nayura (Dockmaster): sec
+  The Ride: sec
+  Boat to Portal: sec
+  Portal to Inkeeper Saelienne: sec
+  TOTAL: sec
+
+Access from Outside -- The Exodar:
+  Inkeeper Allison to Nayura (Dockmaster): sec
+  The Ride: sec
+  Boat to Boat: sec
+  The Ride: sec
+  Boat to Caregiver Breel: sec
+  TOTAL: sec
+
+Access from Outside -- Stormwind:
+  Average the other Alliance cities: sec
+
+------------------------------------------------------------------------
+
+Central Core Design -- Stormwind:
+  Inkeeper Allison to Mailbox (33.2, 64.7): sec
+  Auctioneer Fitch to Mailbox (33.2, 64.7): sec
+  Auctioneer Fitch to Newton Burnside (Banker): sec
+  Newton Burnside (Banker) to Mailbox (33.2, 64.7): sec
+  TOTAL: sec
+  
+Central Core Design -- Ironforge:
+  Inkeeper Firebrew to Mailbox (61.6, 76.1): sec
+  Auctioneer Redmuse to Mailbox (61.6, 76.1): sec
+  Auctioneer Redmuse to Bailey Stonemantle (Banker): sec
+  Bailey Stonemantle (Banker) to Mailbox (61.6, 76.1): sec
+  TOTAL: sec
+
+Central Core Design -- Darnassus:
+  Inkeeper Saelinne to Mailbox (41.6, 41.9): sec
+  Auctioneer Cazarez to Mailbox (41.6, 41.9): sec
+  Auctioneer Cazarez to Garryeth (Banker): sec
+  Garryeth (Banker) to Mailbox (61.6, 76.1): sec
+  TOTAL: sec
+
+Central Core Design -- The Exodar:
+  Caregiver Breel to Mailbox (51.1, 43.1): sec
+  Eoch (Auctioneer) to Mailbox (51.1, 43.1): sec
+  Eoch (Auctioneer) to Jaela (Banker): sec
+  Jaela (Banker) to Mailbox (51.1, 43.1): sec
+  TOTAL: sec
+
+========================================================================
+Access from Outside -- Thunder Bluff:
+  Inkeeper Grysha to Doras (Flight Master): sec
+  The Flight: sec
+  Tal (Flight Master) to Inkeeper Pala: sec
+  TOTAL: sec
+
+Access from Outside -- Undercity:
+  Inkeeper Grysha to Frezza (Zeppelin Master): sec
+  The Flight: sec
+  Zeppelin to Elevator: sec
+  Elevator: sec
+  Elevator to Inkeeper Norman: sec
+  TOTAL: sec
+
+Access from Outside -- Silvermoon:
+  Inkeeper Grysha to Frezza (Zeppelin Master): sec
+  The Flight: sec
+  Zeppelin to Portal: sec
+  Portal to Inkeeper Jovia: sec
+  TOTAL: sec
+
+Access from Outside -- Orgimmar:
+  Average the other Horde Cities: sec
+
+------------------------------------------------------------------------
+
+Central Core Design -- Orgimmar:
+  Inkeeper Grysha to Mailbox (50.7, 70.4): sec
+  Auctioneer Thathung to Mailbox (50.7, 70.4): sec
+  Auctioneer Thathung to Karus (Banker): sec
+  Karus (Banker) to Mailbox (50.7, 70.4): sec
+  TOTAL: sec
+
+Central Core Design -- Thunder Bluff:
+  Inkeeper Pala to Mailbox (45.2, 59.4): sec
+  Auctioneer Stampi to Mailbox (45.2, 59.4): sec
+  Auctioneer Stampi to Torn (Banker): sec
+  Torn (Banker) to Mailbox (45.2, 59.4): sec
+  TOTAL: sec
+  
+Central Core Design -- Undercity:
+  Inkeeper Norman to Mailbox (68.2, 38.3): sec
+  Auctioneer Yarly to Mailbox (68.2, 38.3): sec
+  Auctioneer Yarly to Mortimer Montague (Banker): sec
+  Mortimer Montague (Banker) to Mailbox (68.2, 38.3): sec
+  TOTAL: sec
+
+========================================================================
+
+Misc Notes:
+  For zeppelins/boats/trams, time so that you always Just Miss It.
+  Take shortcuts if reliable.
+  Worst = 1, Best = 5.
+  Mailboxes are always the -nearest- mailbox to the place
