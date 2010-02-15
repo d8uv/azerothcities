@@ -203,7 +203,8 @@ Central Core Design -- Stormwind:
   Newton Burnside (Banker) to Dungar Longdrink (Gryphon Master): 32 sec
   Newton Burnside (Banker) to Mail(63,75): 11 sec
   Dungar Longdrink (Gryphon Master) to Innkeeper Allison: 23 sec
-  TOTAL: 143 sec
+TOTAL: 143 sec
+SCORE: (331-143)/57 = 3.30 = 3
 
 Central Core Design -- Ironforge:
   Auctioneer Redmuse to Bailey Stonemantle (Banker): 11 sec
@@ -214,7 +215,8 @@ Central Core Design -- Ironforge:
   Bailey Stonemantle (Banker) to Gryth Thurden (Gryphon Master): 23 sec
   Bailey Stonemantle (Banker) to Mail(33,65): 4 sec
   Innkeeper Firebrew to Gryth Thurden (Gryphon Master): 23 sec
-  TOTAL: 128 sec
+TOTAL: 128 sec
+SCORE: (331-128)/57 = 3.56 = 4
 
 Central Core Design -- Darnassus:
   Auctioneer Tolon to Garryeth (Banker): 17 sec
@@ -225,7 +227,8 @@ Central Core Design -- Darnassus:
   Garryeth (Banker) to Vesprystus (Hippogryph Master): 24 sec
   Garryeth (Banker) to Mail(42,42): 1 sec
   Innkeeper Saelienne to Vesprystus (Hippogryph Master): 53 sec
-  TOTAL: 212 sec
+TOTAL: 212 sec
+SCORE: (331-212)/57 = 2.09 = 2
 
 Central Core Design -- The Exodar:
   Iressa (Auctioneer) to Caregiver Breel: 31 sec
@@ -236,7 +239,8 @@ Central Core Design -- The Exodar:
   Jaela (Banker) to Mail(51,43): 8 sec
   Caregiver Breel to Auberdine Dock: 75 sec
   (Note, unlike the other cities, the FM is pretty much useless)
-  TOTAL: 274 sec
+TOTAL: 274 sec
+SCORE: (331-274)/57 = 1.00 = 1
 
 ========================================================================
 Access from Outside -- Thunder Bluff:
@@ -266,48 +270,52 @@ Access from Outside -- Orgimmar:
 ------------------------------------------------------------------------
 
 Central Core Design -- Orgimmar:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
+  Auctioneer Thathung to Karus (Banker): 14 sec
+  Auctioneer Thathung to Innkeeper Gryshka: 11 sec
+  Auctioneer Thathung to Doras (Wind Rider Master): 20 sec
+  Auctioneer Thathung to Mail(51,70): 11 sec
+  Karus (Banker) to Innkeeper Gryshkaa: 8 sec
+  Karus (Banker) to Doras (Wind Rider Master):  18 sec
+  Karus (Banker) to Mail(51,70): 3 sec
+  Innkeeper Gryshka to Doras (Wind Rider Master): 18 sec
+TOTAL: 103 sec
+SCORE: (331-103)/57 = 4.00 = 4
 
 Central Core Design -- Thunder Bluff:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
-  
+  Auctioneer Stampi to Torn (Banker): 8 sec
+  Auctioneer Stampi to Innkeeper Pala: 7 sec
+  Auctioneer Stampi to Tal (Wind Rider Master): 18 sec
+  Auctioneer Stampi to Mail(45,59): 5 sec
+  Torn (Banker) to Innkeeper Pala: 7 sec
+  Torn (Banker) to Tal (Wind Rider Master): 22 sec
+  Torn (Banker) to Mail(45,59): 3 sec
+  Innkeeper Pala to Tal (Wind Rider Master): 23 sec
+TOTAL: 93 sec
+SCORE: = (331-93)/57 = 4.18 = 4
+
 Central Core Design -- Undercity:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
+  Auctioneer Yarly to Randolph Montague (Banker): 6 sec
+  Auctioneer Yarly to Innkeeper Norman: 10 sec
+  Auctioneer Rhyker to Michael Garrett (Bat Handler): 10 sec
+  Auctioneer Yarly to Mail: 2 sec
+  Randolph Montague (Banker) to Innkeeper Norman: 3 sec
+  Williama Montague (Banker) to Michael Garrett (Bat Handler): 3 sec
+  Randolph Montague (Banker) to Mail(68,38): 3 sec
+  Innkeeper Norman to Michael Garrett (Bat Handler): 9 sec
+TOTAL: 46 sec
+SCORE: = (331-46)/57 = 5.00 = 5
 
 Central Core Design -- Silvermoon:
-  AH to Bank
-  AH to Inn
-  AH to FM
-  AH to Mail
-  Bank to Inn
-  Bank to FM
-  Bank to Mail
-  Inn to FM
-  TOTAL: sec
+  Vynna (Auctioneer) to Ceera (Banker): 13 sec
+  Vynna (Auctioneer) to Innkeeper Jovia: 13 sec
+  Vynna (Auctioneer) to Skymistress Gloaming: 39 sec
+  Vynna (Auctioneer) to Mail(59,62): 2 sec
+  Ceera (Banker) to Innkeeper Jovia: 12 sec
+  Ceera (Banker) to Skymistress Gloaming: 42: sec
+  Ceera (Banker) to Mail(59,62): 15 sec
+  Innkeeper Jovia to Skymistress Gloaming: 28 sec
+TOTAL: 164 sec
+SCORE: = (331-164)/57 = 2.93 = 3
 
 ========================================================================
 
