@@ -244,28 +244,42 @@ SCORE: (331-274)/57 = 1.00 = 1
 
 ========================================================================
 Access from Outside -- Thunder Bluff:
-  Inkeeper Grysha to Doras (Flight Master): sec
-  The Flight: sec
-  Tal (Flight Master) to Inkeeper Pala: sec
-  TOTAL: 
 
 Access from Outside -- Undercity:
-  Inkeeper Grysha to Frezza (Zeppelin Master): sec
-  The Flight: sec
-  Zeppelin to Elevator: sec
-  Elevator: sec
-  Elevator to Inkeeper Norman: sec
-  TOTAL: sec
+    (From Michael Garrett in Undercity)
+  Silvermoon: 139
+  The Sepulcher: 107
+  Tarren Mill: 142
+  Hammerfall: 302
+  Revantusk Village: 286
+  Thorium Point: 549
+  Kargath: 491
+  Flame Crest: 580
+  Stonard: 774
+  Grom'gol: 807
+  Booty Bay: 790
+    (From Skymistress Gloaming in Silvermoon)
+  Tranquillien:	61	+	139	=	200
+  Light's Hope Chapel:	123	+	139	=	262
 
 Access from Outside -- Silvermoon:
-  Inkeeper Grysha to Frezza (Zeppelin Master): sec
-  The Flight: sec
-  Zeppelin to Portal: sec
-  Portal to Inkeeper Jovia: sec
-  TOTAL: sec
+    (From Skymistress Gloaming in Silvermoon)
+  Tranquillien: 61
+  Light's Hope Chapel: 123
+  Undercity: 139
+  Hammerfall: 422
+  Revantusk Village: 263
+    (From Michael Garrett in Undercity)
+  The Sepulcher: 107 + 139 = 246
+  Tarren Mill: 142 + 139 = 281
+  Thorium Point: 549 + 139 = 688
+  Kargath: 491 + 139 = 630
+  Flame Crest: 580 + 139 = 719
+  Stonard: 774 + 139 = 913
+  Grom'gol: 807 + 139 = 946
+  Booty Bay: 790 + 139 = 929
 
 Access from Outside -- Orgimmar:
-  Average the other Horde Cities: sec
 
 ------------------------------------------------------------------------
 
