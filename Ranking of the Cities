@@ -243,9 +243,109 @@ TOTAL: 274 sec
 SCORE: (331-274)/57 = 1.00 = 1
 
 ========================================================================
+Access from Outside -- Ogrimmar:
+    (From Doras in Orgimmar)
+  Moonglade: 370
+  Everlook: 322
+  Bloodvenom Post: 250
+  Zoram'gar Outpost: 260
+  Emerald Sanctuary: 178
+  Valormok: 97
+  Splintertree Post 92
+  Sun Rock Retreat: 256
+  Shadowprey Village: 445
+  Thunder Bluff: 227
+  Crossroads: 112
+  Ratchet: 108
+  Camp Taurajo: 204
+  Brackenwall Village: 231
+  Mudsprocket: 270
+  Freewind Post: 301
+  Marshal's Refuge: 454
+  Cenarion Hold: 495
+  Camp Mojache: 367
+  Gadgetzan: 418
+    (From Michael Garrett in Undercity)
+  Silvermoon: 139 + 433 = 572
+  The Sepulcher: 107 + 433 = 540
+  Tarren Mill: 142 + 433 = 575
+  Hammerfall: 302 + 433 = 735
+  Revantusk Village: 286 + 433 = 719
+    (From Skymistress Gloaming in Silvermoon)
+  Tranquilien: 61 + 139 + 433 = 633
+  Light's Hope Chapel: 123 + 139 + 139 = 401
+    (From Thysta in Grom'gol)
+  Booty Bay: 80 + 361 = 441
+  Grom'gol: 0 + 361 = 361
+  Stonard: 189 + 361 = 550
+  Flame Crest: 199 + 361 = 560
+  Kargath: 318 + 361 = 679
+  Thorium Point: 261 + 361 = 622
+AVERAGE: 389
+
 Access from Outside -- Thunder Bluff:
+    (From Tal in Thunder Bluff)
+  Moonglade: 543
+  Everlook: 400
+  Bloodvenom Post: 403
+  Zoram'gar Outpost: 266
+  Emerald Sanctuary: 404
+  Valormok: 270
+  Splintertree Post: 320
+  Orgimmar: 209
+  Sun Rock Retreat: 197
+  Shadowprey Village: 161
+  Crossroads: 159
+  Ratchet: 210
+  Camp Taurajo: 112
+  Brackenwall Village: 239
+  Mudsprocket: 224
+  Freewind Post: 205
+  Marshal's Refuge: 400
+  Cenarion Hold: 385
+  Camp Mojache: 255
+  Gadgetzan: 293
+    (From Michael Garrett in Undercity)
+  Silvermoon: 139 + 218 + 433 = 790
+  The Sepulcher: 107 + 218 + 433 = 758
+  Tarren Mill: 142 + 218 + 433 = 793
+  Hammerfall: 302 + 218 + 433 = 953
+  Revantusk Village: 286 + 218 + 433 = 937
+    (From Skymistress Gloaming in Silvermoon)
+  Tranquilien: 61 + 218 + 433 + 139 = 851
+  Light's Hope Chapel: 123 + 218 + 433 + 139 = 913
+    (From Thysta in Grom'gol)
+  Booty Bay: 80 + 218 + 361 = 659
+  Grom'gol: 0 + 218 + 361 = 579
+  Stonard: 189 + 218 + 361 = 768
+  Flame Crest: 199 + 218 + 361 = 778
+  Kargath: 318 + 218 + 361 = 897
+  Thorium Point: 261 + 218 + 361 = 840
+AVERAGE: 490
 
 Access from Outside -- Undercity:
+    (From Doras in Orgimmar)
+  Moonglade: 370 + 433 = 803
+  Everlook: 322 + 433 = 755
+  Bloodvenom Post: 250 + 433 = 683
+  Zoram'gar Outpost: 260 + 433 = 693
+  Emerald Sanctuary: 178 + 433 = 611
+  Valormok: 97 + 433 = 530
+  Splintertree Post 92 + 433 = 525
+  Orgimmar: 0 + 433 = 433
+  Sun Rock Retreat: 256 + 433 = 689
+  Shadowprey Village: 445 + 433 = 878
+  Thunder Bluff 227 + 433 = 660
+  Crossroads: 112 + 433 = 545
+  Ratchet: 108 + 433 = 541
+  Camp Taurajo 204 + 433 = 637
+  Brackenwall Village: 231 + 433 = 664
+  Mudsprocket: 270 + 433 = 703
+  Freewind Post: 301 + 433 = 734
+  Marshal's Refuge: 454 + 433 = 887
+  Cenarion Hold: 495 + 433 = 928
+  Camp Mojache: 367 + 433 = 800
+  Gadgetzan: 418 + 433 = 851
     (From Michael Garrett in Undercity)
   Silvermoon: 139
   The Sepulcher: 107
@@ -261,8 +361,31 @@ Access from Outside -- Undercity:
     (From Skymistress Gloaming in Silvermoon)
   Tranquillien: 61 + 139 = 200
   Light's Hope Chapel: 123 + 139 = 262
+AVERAGE: 588 (@@look into this)
 
 Access from Outside -- Silvermoon:
+    (From Doras in Orgimmar)
+  Moonglade: 370 + 433 + 139 = 942
+  Everlook: 322 + 433 + 139 = 894
+  Bloodvenom Post: 250 + 433 + 139 = 882
+  Zoram'gar Outpost: 260 + 433 + 139 = 832
+  Emerald Sanctuary: 178 + 433 + 139 = 750
+  Valormok: 97 + 433 + 139 = 669
+  Splintertree Post 92 + 433 + 139 = 664
+  Orgimmar: 0 + 433 + 139 = 572
+  Sun Rock Retreat: 256 + 433 + 139 = 828
+  Shadowprey Village: 445 + 433 + 139 = 1017
+  Thunder Bluff: 227 + 433 + 139 = 1005
+  Crossroads: 112 + 433 + 139 = 684
+  Ratchet: 108 + 433 + 139 = 680
+  Camp Taurajo 204 + 433 + 139 = 776
+  Brackenwall Village: 231 + 433 + 139 = 803
+  Mudsprocket: 270 + 433 + 139 = 842
+  Freewind Post: 301 + 433 + 139 = 873
+  Marshal's Refuge: 454 + 433 + 139 = 1026
+  Cenarion Hold: 495 + 433 + 139 = 1067
+  Camp Mojache: 367 + 433 + 139 = 939
+  Gadgetzan: 418 + 433 + 139 = 990
     (From Skymistress Gloaming in Silvermoon)
   Tranquillien: 61
   Light's Hope Chapel: 123
@@ -278,8 +401,7 @@ Access from Outside -- Silvermoon:
   Stonard: 774 + 139 = 913
   Grom'gol: 807 + 139 = 946
   Booty Bay: 790 + 139 = 929
-
-Access from Outside -- Orgimmar:
+AVERAGE: 706
 
 ------------------------------------------------------------------------
 
