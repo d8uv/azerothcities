@@ -1,38 +1,32 @@
-Categories:
-  Character - 5 points. How cool the place is. Looks/Music/General Feel
-  Access from Outside - 5 points. How much of a bitch it is to get there
-  Central Core Design - 5 points. How close Inn/AH/Bank/Mailboxes are.
-  General Memorability - 5 points. Layout of the rest of the city.
+Access from Outside:
+  Stormwind:      503, (7879-9*503)/436 = 7.69 = 8
+  Ironforge:      483, (7879-9*483)/436 = 8.10 = 8
+  Darnassus:      542, (7879-9*542)/436 = 6.88 = 7
+  Exodar:         827, (7879-9*827)/436 = 1.00 = 1
+  Ogrimmar:       391, (7879-9*391)/436 = 10.0 = 10
+  Thunder Bluff:  477, (7879-9*477)/436 = 8.22 = 8
+  Undercity:      588, (7879-9*588)/436 = 5.93 = 6
+  Silvermoon:     707, (7879-9*707)/436 = 3.48 = 3
 
-                Char    Acces   Core    Memor    TOTAL
---------------------------------------------------------
-Stormwind     |   3   |   4   |   3   |   4   |   14   |
-Ironforge     |   4   |   4   |   4   |   5   |   17   |
-Darnassus     |   2   |   4   |   2   |   1   |    9   |
-The Exodar    |   5   |   1   |   1   |   2   |    9   |
-Orgimmar      |   1   |   5   |   4   |   2   |   12   |
-Thunder Bluff |   3   |   4   |   4   |   4   |   15   |
-Undercity     |   5   |   3   |   5   |   4   |   17   |
-Silvermoon    |   4   |   2   |   3   |   3   |   12   |
---------------------------------------------------------
+City Core Design:
+  Stormwind:      143, (898-3*143)/76 = 6.17 = 6
+  Ironforge:      128, (898-3*128)/76 = 6.76 = 7
+  Darnassus:      212, (898-3*212)/76 = 3.45 = 3
+  Exodar:         274, (898-3*274)/76 = 1.00 = 1
+  Ogrimmar:       103, (898-3 103)/76 = 7.75 = 8
+  Thunder Bluff:  93,  (898-3* 93)/76 = 8.14 = 8
+  Undercity:      46,  (898-3* 46)/76 = 10.0 = 10
+  Silvermoon:     164, (898-3*164)/76 = 5.34 = 5
 
-Best Cities:
-  Ironforge
-  Undercity
-
-Good Cities:
-  Stormwind
-  Thunder Bluff
-
-Meh Cities:
-  Ogrimmar
-  Silvermoon
-
-Horrible Cites:
-  Darnassus
-  Exodar
-  
-Horde Cities Win!
+TOTAL SCORE!
+  Stormwind:      (245512-171*503-327*143)/43491 = 7.78 = 8
+  Ironforge:      (245512-171*483-327*128)/43491 = 8.35 = 8
+  Darnassus:      (245512-171*542-327*212)/43491 = 5.76 = 6
+  Exodar:         (245512-171*827-327*274)/43491 = 1.00 = 1
+  Ogrimmar:       (245512-171*391-327*103)/43491 = 10.0 = 10
+  Thunder Bluff:  (245512-171*477-327*93 )/43491 = 9.21 = 9
+  Undercity:      (245512-171*588-327*46 )/43491 = 8.96 = 9
+  Silvermoon:     (245512-171*707-327*164)/43491 = 4.90 = 5
 
 ========================================================================
 
@@ -76,7 +70,6 @@ Access from Outside -- Stormwind:
   Nethergarde Keep = 177
   Booty Bay = 200
 AVERAGE = 503
-SCORE: (936-503)/109 = 3.97 = 4
 
 Access from Outside -- Ironforge:
     (Below are from Caylais Moonfeather in Auberdine)
@@ -118,7 +111,6 @@ Access from Outside -- Ironforge:
   Nethergarde Keep = 372
   Booty Bay = 410
 AVERAGE = 483
-SCORE: (936-483)/109 = 4.16 = 4
 
 Access from Outside -- Darnassus:
     (Below are from Vesprystus in Rut'theran Village)
@@ -159,7 +151,6 @@ Access from Outside -- Darnassus:
   Nethergarde Keep 177 + 401 = 578
   Booty Bay 200 + 401 = 601
 AVERAGE = 542
-SCORE: (936-542)/109 = 3.61 = 4
 
 Access from Outside -- The Exodar:
     (Below are from Caylais Moonfeather in Auberdine)
@@ -200,7 +191,6 @@ Access from Outside -- The Exodar:
   Nethergarde Keep 177 + 401 + 326 = 904
   Booty Bay 200 + 401 + 326 = 927
 AVERAGE = 827
-SCORE: (936-827)/109 = 1.00 = 1
 
 ------------------------------------------------------------------------
 
@@ -214,7 +204,6 @@ Central Core Design -- Stormwind:
   Newton Burnside (Banker) to Mail(63,75): 11 sec
   Dungar Longdrink (Gryphon Master) to Innkeeper Allison: 23 sec
 TOTAL: 143 sec
-SCORE: (331-143)/57 = 3.30 = 3
 
 Central Core Design -- Ironforge:
   Auctioneer Redmuse to Bailey Stonemantle (Banker): 11 sec
@@ -226,7 +215,6 @@ Central Core Design -- Ironforge:
   Bailey Stonemantle (Banker) to Mail(33,65): 4 sec
   Innkeeper Firebrew to Gryth Thurden (Gryphon Master): 23 sec
 TOTAL: 128 sec
-SCORE: (331-128)/57 = 3.56 = 4
 
 Central Core Design -- Darnassus:
   Auctioneer Tolon to Garryeth (Banker): 17 sec
@@ -238,7 +226,6 @@ Central Core Design -- Darnassus:
   Garryeth (Banker) to Mail(42,42): 1 sec
   Innkeeper Saelienne to Vesprystus (Hippogryph Master): 53 sec
 TOTAL: 212 sec
-SCORE: (331-212)/57 = 2.09 = 2
 
 Central Core Design -- The Exodar:
   Iressa (Auctioneer) to Caregiver Breel: 31 sec
@@ -250,7 +237,6 @@ Central Core Design -- The Exodar:
   Caregiver Breel to Auberdine Dock: 75 sec
   (Note, unlike the other cities, the FM is pretty much useless)
 TOTAL: 274 sec
-SCORE: (331-274)/57 = 1.00 = 1
 
 ========================================================================
 Access from Outside -- Ogrimmar:
@@ -293,7 +279,6 @@ Access from Outside -- Ogrimmar:
   Kargath: 318 + 361 = 679
   Thorium Point: 261 + 361 = 622
 AVERAGE: 391
-SCORE: (936-391)/109 = 5.00 = 5
 
 Access from Outside -- Thunder Bluff:
     (From Tal in Thunder Bluff)
@@ -335,7 +320,6 @@ Access from Outside -- Thunder Bluff:
   Kargath: 318 + 218 + 361 = 897
   Thorium Point: 261 + 218 + 361 = 840
 AVERAGE: 477
-SCORE: (936-477)/109 = 4.21 = 4
 
 Access from Outside -- Undercity:
     (From Doras in Orgimmar)
@@ -376,7 +360,6 @@ Access from Outside -- Undercity:
   Tranquillien: 61 + 139 = 200
   Light's Hope Chapel: 123 + 139 = 262
 AVERAGE: 588
-SCORE: (936-588)/109 = 3.19 = 3
 
 Access from Outside -- Silvermoon:
     (From Doras in Orgimmar)
@@ -417,7 +400,6 @@ Access from Outside -- Silvermoon:
   Grom'gol: 807 + 139 = 946
   Booty Bay: 790 + 139 = 929
 AVERAGE: 707
-SCORE: (936-707)/109 = 2.10 = 2
 
 ------------------------------------------------------------------------
 
