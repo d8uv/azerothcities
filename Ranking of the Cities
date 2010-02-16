@@ -4,23 +4,40 @@ Categories:
   Central Core Design - 5 points. How close Inn/AH/Bank/Mailboxes are.
   General Memorability - 5 points. Layout of the rest of the city.
 
-                Char    Acces   Core    Memor   TOTAL
--------------------------------------------------------
-Stormwind     |       |       |       |       |       |
-Ironforge     |       |       |       |       |       |
-Darnassus     |       |       |       |       |       |
-The Exodar    |       |       |       |       |       |
-Orgimmar      |       |       |       |       |       |
-Thunder Bluff |       |       |       |       |       |
-Undercity     |       |       |       |       |       |
-Silvermoon    |       |       |       |       |       |
--------------------------------------------------------
+                Char    Acces   Core    Memor    TOTAL
+--------------------------------------------------------
+Stormwind     |   3   |   4   |   3   |   4   |   14   |
+Ironforge     |   4   |   4   |   4   |   5   |   17   |
+Darnassus     |   2   |   4   |   2   |   1   |    9   |
+The Exodar    |   5   |   1   |   1   |   2   |    9   |
+Orgimmar      |   1   |   5   |   4   |   2   |   12   |
+Thunder Bluff |   3   |   4   |   4   |   4   |   15   |
+Undercity     |   5   |   3   |   5   |   4   |   17   |
+Silvermoon    |   4   |   2   |   3   |   3   |   12   |
+--------------------------------------------------------
+
+Best Cities:
+  Ironforge
+  Undercity
+
+Good Cities:
+  Stormwind
+  Thunder Bluff
+
+Meh Cities:
+  Ogrimmar
+  Silvermoon
+
+Horrible Cites:
+  Darnassus
+  Exodar
+  
+Horde Cities Win!
 
 ========================================================================
 
 Access from Outside -- Stormwind:
     (Below are from Caylais Moonfeather in Auberdine)
-    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
   Rut'theran Village: 86 + 401 = 487
   Auberdine: 401
   Moonglade: 152 + 401 = 553
@@ -36,11 +53,8 @@ Access from Outside -- Stormwind:
   Feathermoon: 475 + 401 = 876
   Cenarion Hold: 629 + 401 = 1030
     (Below are from Baldruc in Theramore)
-    (Stormwind to Ironforge penalty = 68 to tram, 130 on tram, 48 to FM)
-    (Ironforge to Theramore penalty = 
-      155 to Menethil, 15 to boat, 270 on boat, 20 to FM = 460)
   Thalanaar: 164 + 246 + 460 = 870
-  Mudsprocket: 65 + 2Iron46 + 460 = 771
+  Mudsprocket: 65 + 246 + 460 = 771
   Theramore: 0 + 246 + 460 = 706
   Marshal's Refuge: 263 + 246 + 460 = 969
   Gadgetzan: 158 + 246 + 460 = 864
@@ -66,8 +80,6 @@ SCORE: (936-503)/109 = 3.97 = 4
 
 Access from Outside -- Ironforge:
     (Below are from Caylais Moonfeather in Auberdine)
-    (Ironforge to Auberdine penalty = 
-      47 to tram, 130 on tram, 106 to boat, 275 on boat, 30 to FM = 558)
   Rut'theran Village: 86 + 558 = 644
   Auberdine: 558
   Moonglade: 152 + 558 = 710
@@ -77,8 +89,6 @@ Access from Outside -- Ironforge:
   Stonetalon Peak: 182 + 558 = 740
   Astranaar: 169 + 558 = 727
     (Below are from Baldruc in Theramore)
-    (Ironforge to Theramore penalty = 
-      155 to Menethil, 15 to boat, 270 on boat, 20 to FM = 460)
   Forest Song: 263 + 460 = 723
   Talrendis Point: 235 + 460 = 695
   Nijel's Point: 335 + 460 = 795
@@ -130,7 +140,6 @@ Access from Outside -- Darnassus:
   Cenarion Hold: 713
   Marshal's Refuge: 791
   Gadgetzan: 687
-    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
     (Below are from Dungar Longdrink in Stormwind)
   Light's Hope Chapel 567 + 401 = 968
   Chillwind Camp 475 + 401 = 876
@@ -153,7 +162,6 @@ AVERAGE = 542
 SCORE: (936-542)/109 = 3.61 = 4
 
 Access from Outside -- The Exodar:
-    (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
     (Below are from Caylais Moonfeather in Auberdine)
   Rut'theran Village: 86 + 326 = 412
   Moonglade: 152 + 326 = 478
@@ -173,8 +181,6 @@ Access from Outside -- The Exodar:
   Cenarion Hold: 629 + 326 = 995
   Marshal's Refuge: 706 + 326 = 1032
   Gadgetzan: 603 + 326 = 929
-    (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
-    (Stormwind to Auberdine penalty = 96 to boat, 275 on boat, 30 to FM)
     (Below are from Dungar Longdrink in Stormwind)
   Light's Hope Chapel 567 + 401 + 326 = 1294
   Chillwind Camp 475 + 401 + 326 = 1202
