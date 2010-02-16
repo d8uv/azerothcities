@@ -40,7 +40,7 @@ Access from Outside -- Stormwind:
     (Ironforge to Theramore penalty = 
       155 to Menethil, 15 to boat, 270 on boat, 20 to FM = 460)
   Thalanaar: 164 + 246 + 460 = 870
-  Mudsprocket: 65 + 246 + 460 = 771
+  Mudsprocket: 65 + 2Iron46 + 460 = 771
   Theramore: 0 + 246 + 460 = 706
   Marshal's Refuge: 263 + 246 + 460 = 969
   Gadgetzan: 158 + 246 + 460 = 864
@@ -62,6 +62,7 @@ Access from Outside -- Stormwind:
   Nethergarde Keep = 177
   Booty Bay = 200
 AVERAGE = 503
+SCORE: (936-503)/109 = 3.97 = 4
 
 Access from Outside -- Ironforge:
     (Below are from Caylais Moonfeather in Auberdine)
@@ -107,6 +108,7 @@ Access from Outside -- Ironforge:
   Nethergarde Keep = 372
   Booty Bay = 410
 AVERAGE = 483
+SCORE: (936-483)/109 = 4.16 = 4
 
 Access from Outside -- Darnassus:
     (Below are from Vesprystus in Rut'theran Village)
@@ -148,6 +150,7 @@ Access from Outside -- Darnassus:
   Nethergarde Keep 177 + 401 = 578
   Booty Bay 200 + 401 = 601
 AVERAGE = 542
+SCORE: (936-542)/109 = 3.61 = 4
 
 Access from Outside -- The Exodar:
     (Azuremyst to Auberdine penalty = 290 on boat, 36 to FM = 326)
@@ -191,6 +194,7 @@ Access from Outside -- The Exodar:
   Nethergarde Keep 177 + 401 + 326 = 904
   Booty Bay 200 + 401 + 326 = 927
 AVERAGE = 827
+SCORE: (936-827)/109 = 1.00 = 1
 
 ------------------------------------------------------------------------
 
@@ -268,6 +272,7 @@ Access from Outside -- Ogrimmar:
     (From Michael Garrett in Undercity)
   Silvermoon: 139 + 433 = 572
   The Sepulcher: 107 + 433 = 540
+  Undercity: 0 + 433 = 433
   Tarren Mill: 142 + 433 = 575
   Hammerfall: 302 + 433 = 735
   Revantusk Village: 286 + 433 = 719
@@ -281,7 +286,8 @@ Access from Outside -- Ogrimmar:
   Flame Crest: 199 + 361 = 560
   Kargath: 318 + 361 = 679
   Thorium Point: 261 + 361 = 622
-AVERAGE: 389
+AVERAGE: 391
+SCORE: (936-391)/109 = 5.00 = 5
 
 Access from Outside -- Thunder Bluff:
     (From Tal in Thunder Bluff)
@@ -308,6 +314,7 @@ Access from Outside -- Thunder Bluff:
     (From Michael Garrett in Undercity)
   Silvermoon: 139 + 218 + 433 = 790
   The Sepulcher: 107 + 218 + 433 = 758
+  Undercity: 0 + 218 + 433 = 651
   Tarren Mill: 142 + 218 + 433 = 793
   Hammerfall: 302 + 218 + 433 = 953
   Revantusk Village: 286 + 218 + 433 = 937
@@ -321,7 +328,8 @@ Access from Outside -- Thunder Bluff:
   Flame Crest: 199 + 218 + 361 = 778
   Kargath: 318 + 218 + 361 = 897
   Thorium Point: 261 + 218 + 361 = 840
-AVERAGE: 490
+AVERAGE: 477
+SCORE: (936-477)/109 = 4.21 = 4
 
 Access from Outside -- Undercity:
     (From Doras in Orgimmar)
@@ -335,7 +343,7 @@ Access from Outside -- Undercity:
   Orgimmar: 0 + 433 = 433
   Sun Rock Retreat: 256 + 433 = 689
   Shadowprey Village: 445 + 433 = 878
-  Thunder Bluff 227 + 433 = 660
+  Thunder Bluff: 227 + 433 = 660
   Crossroads: 112 + 433 = 545
   Ratchet: 108 + 433 = 541
   Camp Taurajo 204 + 433 = 637
@@ -361,7 +369,8 @@ Access from Outside -- Undercity:
     (From Skymistress Gloaming in Silvermoon)
   Tranquillien: 61 + 139 = 200
   Light's Hope Chapel: 123 + 139 = 262
-AVERAGE: 588 (@@look into this)
+AVERAGE: 588
+SCORE: (936-588)/109 = 3.19 = 3
 
 Access from Outside -- Silvermoon:
     (From Doras in Orgimmar)
@@ -401,7 +410,8 @@ Access from Outside -- Silvermoon:
   Stonard: 774 + 139 = 913
   Grom'gol: 807 + 139 = 946
   Booty Bay: 790 + 139 = 929
-AVERAGE: 706
+AVERAGE: 707
+SCORE: (936-707)/109 = 2.10 = 2
 
 ------------------------------------------------------------------------
 
